@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GradleSpringBootProject.LibraryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-03-22T06:28:11" hostname="longlehoang" time="0.002">
+  <properties/>
+  <testcase name="testSomeLibraryMethod" classname="GradleSpringBootProject.LibraryTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
